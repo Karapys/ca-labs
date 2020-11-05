@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Projects/FPGA/week10/ex3/simulation/modelsim
+vfull_adder
+Z1 !s110 1604580006
+!i10b 1
+!s100 cdc>gmJZ`[C9NY_S3eV_T0
+ICCJYjCcNzn32fUnXILoH13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604579045
+8D:/Projects/FPGA/week10/ex3/full_adder.v
+FD:/Projects/FPGA/week10/ex3/full_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1604580005.000000
+!s107 D:/Projects/FPGA/week10/ex3/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week10/ex3|D:/Projects/FPGA/week10/ex3/full_adder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/Projects/FPGA/week10/ex3
+Z7 tCvgOpt 0
+vhard_block
+!s110 1604580005
+!i10b 1
+!s100 afO:QhdD_Oji_Xm^J_Vfn3
+IeGF6c=c4M4>FL_[QOe`:H1
+R2
+R0
+w1604579993
+8ex3.vo
+Fex3.vo
+L0 1461
+R3
+r1
+!s85 0
+31
+R4
+!s107 ex3.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex3.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vripple_carry
+R1
+!i10b 1
+!s100 KnbD]5S[?5B>0J9L4=VzD2
+I]hk5eIfhkQ5@KmY>6F^Y<1
+R2
+R0
+w1604579839
+8D:/Projects/FPGA/week10/ex3/ripple_carry.v
+FD:/Projects/FPGA/week10/ex3/ripple_carry.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1604580006.000000
+!s107 D:/Projects/FPGA/week10/ex3/ripple_carry.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week10/ex3|D:/Projects/FPGA/week10/ex3/ripple_carry.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!i10b 1
+!s100 cCll>89QW35cd[@>eAk[B1
+IlELf9]OPU9R7Xd5z^1TGm2
+R2
+R0
+w1604579934
+8D:/Projects/FPGA/week10/ex3/testbench.v
+FD:/Projects/FPGA/week10/ex3/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/Projects/FPGA/week10/ex3/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week10/ex3|D:/Projects/FPGA/week10/ex3/testbench.v|
+!i113 1
+R5
+R6
+R7
