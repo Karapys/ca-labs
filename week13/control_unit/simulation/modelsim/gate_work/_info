@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Projects/FPGA/week13/control_unit/simulation/modelsim
+valu_decoder
+Z1 !s110 1606394844
+!i10b 1
+!s100 ;`8kZ4OS@Bf<CO2a5Ie7Q3
+I5>P7zeKJDUYUKDOB0LQT?3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606394719
+8D:/Projects/FPGA/week13/control_unit/alu_decoder.v
+FD:/Projects/FPGA/week13/control_unit/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606394844.000000
+!s107 D:/Projects/FPGA/week13/control_unit/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week13/control_unit|D:/Projects/FPGA/week13/control_unit/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/Projects/FPGA/week13/control_unit
+Z7 tCvgOpt 0
+vcontrol_unit
+R1
+!i10b 1
+!s100 bJL;8MfVjWeR>CEkGoDYB0
+IZhfNT4ei4X3zl_D<zhQS11
+R2
+R0
+w1606392477
+8D:/Projects/FPGA/week13/control_unit/control_unit.v
+FD:/Projects/FPGA/week13/control_unit/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Projects/FPGA/week13/control_unit/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week13/control_unit|D:/Projects/FPGA/week13/control_unit/control_unit.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+Z8 !s110 1606394843
+!i10b 1
+!s100 mbL2GFQUj;8oDN11XX6bD3
+Ig>1gAUKRSV744hDZl`j2?3
+R2
+R0
+w1606394811
+8control_unit.vo
+Fcontrol_unit.vo
+L0 1081
+R3
+r1
+!s85 0
+31
+!s108 1606394842.000000
+!s107 control_unit.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|control_unit.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmain_decoder
+R1
+!i10b 1
+!s100 kSiGOOVTVmSnHdO79O?AS1
+I]LnY:cif2DTXkBJKF@6Ko1
+R2
+R0
+w1606394713
+8D:/Projects/FPGA/week13/control_unit/main_decoder.v
+FD:/Projects/FPGA/week13/control_unit/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Projects/FPGA/week13/control_unit/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week13/control_unit|D:/Projects/FPGA/week13/control_unit/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R8
+!i10b 1
+!s100 8j^925n7Zd;RLhW=[8Ag<3
+IQ][69Q?k1Pn@JA=e]KWIO0
+R2
+R0
+w1606390263
+8D:/Projects/FPGA/week13/control_unit/testbench.v
+FD:/Projects/FPGA/week13/control_unit/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1606394843.000000
+!s107 D:/Projects/FPGA/week13/control_unit/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Projects/FPGA/week13/control_unit|D:/Projects/FPGA/week13/control_unit/testbench.v|
+!i113 1
+R5
+R6
+R7
